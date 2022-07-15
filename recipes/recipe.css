@@ -5,3 +5,8 @@
 ol > li {
   margin-bottom: 20px;
 }
+
+a:link,
+a:visited {
+  color: black;
+}

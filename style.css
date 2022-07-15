@@ -1,3 +1,20 @@
 * {
   font-family: "Monospace", Verdana, sans-serif;
 }
+
+a:link,
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+a:hover,
+a:visited:hover {
+  text-decoration: none;
+  color: black;
+}
+
+a:active,
+a:visited:active {
+  text-decoration: none;
+  color: black;
+}
