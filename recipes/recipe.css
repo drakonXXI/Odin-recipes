@@ -1,3 +1,7 @@
+* {
+  font-family: "Monospace", Verdana, sans-serif;
+}
+
 ol > li {
   margin-bottom: 20px;
 }
